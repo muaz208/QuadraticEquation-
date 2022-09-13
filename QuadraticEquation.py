@@ -1,5 +1,5 @@
 import math
-def quadratic()://Fixed up
+def quadratic():
 
     try:
 
